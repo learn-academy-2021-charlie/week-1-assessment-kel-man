@@ -9,7 +9,9 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: A function is a series of rules that handle incoming information to produce a specific output. You would use one to map out behavior for your program.
 
-  Researched answer:
+  Researched answer: A function is a group of mathematical expressions that accept an input and produce an output. A function will have a consistent output given the same input. Functions in mathematics
+                    and science are often used to represent the relationship between different phenomena; in programming functions are used to execute complex computation and process large
+                    amounts of data in an accurate and useful manner.
 
 
 
@@ -17,7 +19,8 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: I'm not entirely sure, but I believe an argument is the data you pass into a function, whereas a parameter is data a function is using that was passed into it? Otherwise they are the same thing.
 
-  Researched answer:
+  Researched answer: Paramaters are the variables built into functions that factor in input and communication with other functions. Arguments are the actual values passed into functions to perform
+                    their logic with. They describe two faces of the same coin. A parameter is theoretical, while an argument is actual.
 
 
 
@@ -25,7 +28,9 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: An index is a location within an array. It accesses a specific node and nothing else. A value is a piece of data stored somewhere. A value could be stored at an index within an array, but they are two different types of speech in javascript.
 
-  Researched answer:
+  Researched answer: An index is a numerical value which represents a specific node in an ordered list, typically an array. It is not a value itself, but instead is a location at which a value can be
+                      appropriated. A value, on the other hand, is a specific measure of a data type and is used to represent state or action within programs. Values can be changed and read by functions
+                      and are stored by various manner, one of which being by index within array.
 
 
 
@@ -33,7 +38,9 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: A built-in method is a function that is built-in to whichever respective class it is a part of, be it string or number etc. These methods can be hundreds of lines long and make up the backbone of the Javascript programming language in data manipulation
 
-  Researched answer:
+  Researched answer: A built-in method exists as part of the programming language; it is what makes different languages good at certain things and bad at others. Built-in methods are functions that
+                    are attached to certain keywords in a programming language; e.g., in Javascript the most powerful built-in methods are those for the Array datatype. These methods allow for certain
+                    liberties to be assumed when processing data in their respective languages, as they can aid heavily in such an endeavor.
 
 
 
@@ -42,7 +49,9 @@ Then, research the question to expand on your answer. Even if you feel you have 
   Your answer: The "Driver" uses the keyboard to type whichever code has been agreed upon/suggested and approved by each member of the pair, while the "Navigator" is responsible for keeping the code
                 moving in the right direction through advice and suggestions.
 
-  Researched answer:
+  Researched answer: Pair programming is when two developers are partnered onto a single console/machine. The benefits of such a techique are obvious when two developers with different
+                      skillsets/backgrounds are working together, as such a pair will be able to shore up their weaknesses with each others' differing expertise. The member of the pair who is not
+                      currently typing is responsible for coming up with the core concepts for the project and directing the code to a structurally sound solution.
 
 
 

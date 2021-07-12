@@ -24,6 +24,17 @@ var temp3 = 212
     }
   }
 
+ const boilingPoint = (temp) => {
+   return (temp == 212)
+     ? '212 is at boiling point'
+     : (temp > 212)
+     ? `${temp} is above boiling point`
+     : `${temp} is below boiling point`
+ }
+console.log(boilingPoint(temp1))
+console.log(boilingPoint(temp2))
+console.log(boilingPoint(temp3))
+
 // --------------------2) Create a function that takes in two arrays of numbers and returns a single array with all the values sorted least to greatest.
 // Use the test variables provided below. Expected output: [-9, -7, 0, 3, 7, 8, 9, 13, 22, 36]
 
